@@ -4,6 +4,7 @@ Asteroids!!
  - Powerups
  - Enemy Ships
  - Animations
- - Duration on bulets
- - Levels
  - GameOver
+ - Importantor things:
+  - FIX THE DAMN SPLIT;
+  - Big Berta Eats the split; FIX DAT SHIT,
