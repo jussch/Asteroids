@@ -3,8 +3,7 @@ Asteroids!!
 ###ToDo:
  - Powerups
  - Enemy Ships
- - Animations
+ - Animations (More Animations?)
  - GameOver
- - Importantor things:
-  - FIX THE DAMN SPLIT;
-  - Big Berta Eats the split; FIX DAT SHIT,
+ - Fix Color Scheme
+ - Make Bullet into line.
